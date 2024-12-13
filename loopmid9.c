@@ -17,3 +17,11 @@ for (i=1;i<x*y;i++){
 printf("LCM of given numbers: %d\n",a);
     return 0;
 }
+
+
+// FIND only CM OF TWO NUMBERS //
+
+for (i=1;i<x*y;i++){
+    if(i%x==0 && i%y==0){
+        a=i;
+         }
