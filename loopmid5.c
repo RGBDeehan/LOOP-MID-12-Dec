@@ -1,4 +1,4 @@
-// BIGGEST FACTOR & LOWEST FACTOR //
+// BIGGEST FACTOR (except the number) & LOWEST FACTOR (except 1) //
 
 #include <stdio.h>
 int main(){
