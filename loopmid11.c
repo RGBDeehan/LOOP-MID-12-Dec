@@ -34,3 +34,28 @@ printf("%d   ",p);
 }
 return 0;
 }
+
+
+
+// SUM,AVERAGE OF DIGIT //
+
+#include <stdio.h> 
+int main (){
+int x,p,c,s,a;
+
+printf("Enter the number: ");
+scanf("%d",&x);
+printf("The Digits are: ");
+s=0;
+while (x!=0){
+    p=x%10;
+    x=x/10;
+    c++;
+    s=s+p;
+printf("%d   ",p);
+} a=s/c;
+printf("The sum of digit: %d\n",s);
+printf("The number of digit: %d\n",c);
+printf("The average of digit: %d\n",a);
+ return 0;
+}
