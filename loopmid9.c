@@ -1,4 +1,4 @@
-// FIND LCM OF TWO NUMBERS //
+// FIND LCM OF TWO NUMBERS // ((GCD * LCM = x*y))
 
 #include <stdio.h>
 int main() {
