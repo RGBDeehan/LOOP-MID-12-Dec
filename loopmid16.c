@@ -9,7 +9,7 @@ printf("Enter last number: ");
 scanf("%d",&y);
   v=x;
   s=0;
-   for(i=x;v<=y;i++){
+   for(i=1;v<=y;i++){
     s=s+v;
     v=v+2;
    }  
