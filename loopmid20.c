@@ -1,4 +1,4 @@
-// SERIES (x3/2!+x5/3!+x7/4!+x9/5!) //
+// SERIES (x^3/2!+x^5/3!+x^7/4!+x^9/5!) //
 
 #include <stdio.h>
 int main (){
