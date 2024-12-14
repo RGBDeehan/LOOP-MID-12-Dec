@@ -1,4 +1,4 @@
-// SERIES (x+x2+x3+x4+....+x10) //
+// SERIES (x^1+x^2+x^3+x^4+....+x^10) //
 
 #include <stdio.h>
 int main (){
