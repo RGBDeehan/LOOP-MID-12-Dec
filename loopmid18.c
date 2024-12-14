@@ -12,6 +12,7 @@ for(i=1;i<=5;i++){
      s=s+v;
      v=v*x*x;
 }
+     // ANOTHER s=s+pow(x,i*2-i) //
 printf("The summation of the series: %d\n",s);
    return 0;
 }
